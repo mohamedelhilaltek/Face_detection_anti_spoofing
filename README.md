@@ -11,9 +11,8 @@ Spoofing can include various methods such as displaying a photograph or using a 
 
 To accomplish this task, we employ a CNN-based model that has been trained on a dataset comprising two main categories: <br>
 
-Real Person Data: This category contains images and videos of actual individuals.<br>
-Spoof Person Data: This category includes synthetic or manipulated data, such as photographs, videos, or other types of impersonation
-attempts.<br>
+Real Person Data: This category contains images of actual individuals.<br>
+Spoof Person Data: This category includes images of spoof.<br>
 
 I hope this repository helps you in building an effective solution for real vs. spoof person detection in security camera systems. 
-If you have any questions or need assistance, don't hesitate to reach out to the project maintainers. Good luck with your project!
+
